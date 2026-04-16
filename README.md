@@ -45,3 +45,4 @@ The current public build is distributed through the GitHub Releases tab:
 - This is a standalone Windows executable.
 - The tool is provided as a free companion utility.
 - Ultra Surface Shader itself remains the main product.
+- Machine-specific publish notes are intentionally kept out of the public repository.
