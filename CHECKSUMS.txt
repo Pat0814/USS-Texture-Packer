@@ -1,0 +1,7 @@
+USS Texture Packer v1.0.0
+
+USS_TEXTURE_PACKER.exe
+SHA256 31CCD160C0A8C6F3C81B044B487AA63228F1BFEEAAF198F7AB7570CDD784A378
+
+USS_TEXTURE_PACKER_v1_0_0.zip
+SHA256 will match the final uploaded release asset you publish from the local package.
