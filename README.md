@@ -13,6 +13,12 @@ It is intended for fast channel packing tasks such as:
 
 The tool is optional and works well alongside Ultra Surface Shader, but it is not limited to USS-specific materials.
 
+## Related USS Product
+
+USS Texture Packer was created as a free companion utility for the USS workflow and pairs well with the [USS - Ultra Surface Shader](https://www.fab.com/listings/254b7083-5a3a-4f7f-bcf5-2029b442169d) package on Fab.
+
+Ultra Surface Shader is the main USS product: a modular Unreal Engine shader system built around three master materials for base surfaces, cloth response, and layered blend workflows.
+
 ## What It Does
 
 - combines separate linear grayscale source maps into a single packed RGBA output
