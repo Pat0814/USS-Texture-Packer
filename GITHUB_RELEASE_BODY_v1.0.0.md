@@ -1,8 +1,8 @@
 # USS Texture Packer v1.0.0
 
-USS Texture Packer is a free standalone companion utility for fast packed-texture preparation.
+USS Texture Packer is a free standalone companion utility for packing linear grayscale maps into practical RGBA texture outputs.
 
-It is designed for clean grayscale-to-RGBA packing workflows and ships with ready-to-use presets for:
+It is designed for clean linear grayscale-to-RGBA packing workflows and ships with ready-to-use presets for:
 
 - `ORM`
 - `ORD`
